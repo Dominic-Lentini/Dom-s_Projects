@@ -1,0 +1,11 @@
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.exe.config
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.exe
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\bin\Debug\WeatherChecker.pdb
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.Form1.resources
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.GenerateResource.cache
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.CoreCompileInputs.cache
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.csproj.CopyComplete
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.exe
+C:\Users\lentidom\source\repos\WeatherChecker\WeatherChecker\obj\Debug\WeatherChecker.pdb
